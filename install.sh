@@ -20,3 +20,4 @@ ecryptfs-mount-private
 ln -sf ~/Private/dotfiles/.aws ~/.aws
 ln -sf ~/Private/dotfiles/.ssh ~/.ssh
 
+$DIR/install-scala.sh
