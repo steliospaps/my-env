@@ -1,6 +1,5 @@
 #!/bin/bash -c "echo source this do not run; exit -1"
 sudo apt update &&
 sudo apt install python-pip maven docker docker-compose default-jdk &&
-pip install awscli &&
 sudo apt install npm
 
